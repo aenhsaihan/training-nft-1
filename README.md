@@ -14,7 +14,6 @@ You will learn:
 - How to store token metadata in distributed storage with IPFS
 - How to handle token transfers and other operations
 - How to list tokens for sale and accept payments from buyers
-- Test
 
 ## Prerequisites
 
